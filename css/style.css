@@ -132,3 +132,14 @@ img {
 
 
 }
+
+.container_7 {
+    
+    height: 2px;
+    padding: 14px;
+    background: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    gap: 75px;
+
+}
