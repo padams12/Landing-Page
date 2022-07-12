@@ -1,0 +1,15 @@
+
+.container_1 {
+
+    height: 120px;
+    padding: 14px;
+    background: powderblue;
+    border: 6px solid salmon;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_links {
+    display: flex;
+    gap: 15px;
+}
