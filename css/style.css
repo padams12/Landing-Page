@@ -68,11 +68,10 @@ img {
 
 .container_3 {
 
-    height: 400px;
+    height: 100px;
     padding: 14px;
     background: #F9FAF8;
-    display: flex;
-    justify-content: center;
+    text-align: center;
 
 }
 
