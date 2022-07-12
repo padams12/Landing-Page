@@ -2,8 +2,7 @@
 
     height: 120px;
     padding: 14px;
-    background: powderblue;
-    border: 6px solid salmon;
+    background: #1F2937;
     display: flex;
     justify-content: space-between;
 }
@@ -12,6 +11,7 @@
 
     font-weight: bolder;
     font-size: larger;
+    color: #F9FAF8;
 
 }
 
@@ -23,4 +23,28 @@
 .header_links p {
     font-weight: bolder;
     font-size: larger;
+    color: #F9FAF8;
 }
+
+.container_2 {
+
+    height: 250px;
+    padding: 14px;
+    background: #1F2937;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.awesome_text {
+
+    font-weight: bolder;
+    font-size: larger;
+    color: #F9FAF8;
+
+}
+
+
+
+
+
