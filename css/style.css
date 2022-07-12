@@ -2,14 +2,9 @@
     border: 20px solid salmon;
 }
 
-.container_1 .navbar {
-    border:  20px solid blueviolet;
-    height: 100px;
-    width: auto;
-}
 
-.navcontainer {
-    
+.nav_container_1 {
+
     display: flex;
     height: 50px;
     padding: 20px;
