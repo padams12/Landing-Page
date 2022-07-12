@@ -84,7 +84,6 @@ img {
     justify-content: center;
     gap: 50px;
 
-
 }
 
 .box_1,
@@ -99,7 +98,7 @@ img {
 
 .container_5 {
 
-    height: 5px;
+    height: 2px;
     padding: 14px;
     background: #F9FAF8;
     display: flex;
@@ -110,12 +109,11 @@ img {
 
 .container_6 {
 
-    height: 100px;
+    height: 300px;
     padding: 14px;
     background: #E5E7EB;
     justify-content: center;
     gap: 75px;
 
-
-
 }
+
