@@ -28,30 +28,44 @@
 
 .container_2 {
 
-    height: 250px;
+    height: 400px;
     padding: 14px;
     background: #1F2937;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 50px;
 
 }
 
-.awesome_text {
+.awesome_text h2 {
 
     font-weight: bolder;
-    font-size: larger;
+    font-size: 50px;
     color: #F9FAF8;
 
 }
 
+.awesome_text p {
+
+    font-weight: bold;
+    font-size: 20px;
+    color: #F9FAF8;
+}
+
 .button_1 {
-    height: 30px;
-    width: 80px;
+    height: 35px;
+    width: 100px;
     border-radius: 8px;
     background-color: #3882F6;
     color: #F9FAF8;
     font-weight: bolder;
 }
+
+img {
+    height: 300px;
+    width: auto;
+}
+
 
 
 
