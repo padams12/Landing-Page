@@ -117,13 +117,18 @@ img {
 
 }
 
-.container_6 p {
+.container_6 blockquote {
 
-    font-weight: bolder;
-    font-size: larger;
+    font-weight: normal;
+    font-size: 45px;
 
 }
 
+.container_6 p {
+
+    font-weight: bolder;
+    font-size: 45px;
+    text-align: center;
 
 
-
+}
