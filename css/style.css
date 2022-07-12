@@ -75,13 +75,26 @@ img {
 
 }
 
+.container_4 {
+
+    height: 400px;
+    padding: 14px;
+    background: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+
+}
+
 .box_1,
 .box_2,
 .box_3,
 .box_4 {
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     border: 2px solid blue;
+    border-radius: 10px;
 }
         
 
