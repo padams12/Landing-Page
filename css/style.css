@@ -97,6 +97,19 @@ img {
     border-radius: 10px;
 }
 
+.container_5 {
+
+    height: 400px;
+    padding: 14px;
+    background: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+}
+
+
+
 
         
 
