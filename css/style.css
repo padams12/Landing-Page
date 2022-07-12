@@ -4,8 +4,32 @@
 
 .container_1 .navbar {
     border:  20px solid blueviolet;
+    height: 100px;
+    width: auto;
 }
 
-.navbar {
-    /* set this as the flex container */
+.navcontainer {
+    
+    display: flex;
+    height: 50px;
+    padding: 20px;
+    border: 20px solid red;
+    width: auto;
+    justify-content: left;
+    
 }
+
+.navbar #header_logo {
+
+    border: 12px solid brown;
+    justify-content: left;
+
+}
+
+.navbar .header_link_one,
+.navbar .header_link_two,
+.navbar .header_link_three {
+
+    border: 12px solid blue;
+}
+
