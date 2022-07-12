@@ -1,0 +1,11 @@
+.container_1 {
+    border: 20px solid salmon;
+}
+
+.container_1 .navbar {
+    border:  20px solid blueviolet;
+}
+
+.navbar {
+    /* set this as the flex container */
+}
