@@ -77,7 +77,7 @@ img {
 
 .container_4 {
 
-    height: 400px;
+    height: 150px;
     padding: 14px;
     background: #F9FAF8;
     display: flex;
@@ -99,25 +99,23 @@ img {
 
 .container_5 {
 
-    height: 400px;
+    height: 5px;
     padding: 14px;
     background: #F9FAF8;
     display: flex;
     justify-content: center;
-    gap: 50px;
+    gap: 75px;
 
 }
 
+.container_6 {
+
+    height: 100px;
+    padding: 14px;
+    background: #E5E7EB;
+    justify-content: center;
+    gap: 75px;
 
 
 
-        
-
-
-
-
-
-
-
-
-
+}
