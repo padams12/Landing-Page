@@ -140,7 +140,6 @@ img {
     background: #F9FAF8;
     display: flex;
     justify-content: center;
-    border: 2px solid blue;
     align-items: center;
 
 }
@@ -197,4 +196,11 @@ img {
     text-align: center;
     color: #F9FAF8;
 
+}
+
+.container_8 {
+
+    height: 120px;
+    padding: 14px;
+    background: #1F2937;
 }
