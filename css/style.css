@@ -66,6 +66,17 @@ img {
     width: auto;
 }
 
+.container_3 {
+
+    height: 400px;
+    padding: 14px;
+    background: #F9FAF8;
+    display: flex;
+    justify-content: center;
+
+}
+
+
 
 
 
