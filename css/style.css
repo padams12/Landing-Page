@@ -76,6 +76,18 @@ img {
 
 }
 
+.box_1,
+.box_2,
+.box_3,
+.box_4 {
+    height: 100px;
+    width: 100px;
+    border: 2px solid blue;
+}
+        
+
+
+
 
 
 
